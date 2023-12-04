@@ -1,6 +1,6 @@
 # AIT-Pune-Mess-Management-System
 
-This project is a fully functional mess management system developed for AIT Pune. It utilizes a MySQL database and offers various functionalities, including:
+This project is a fully functional mess management system developed for AIT Pune. It utilizes a MySQL database, backend using Flask and offers various functionalities, including:
 
 - Ordering food
 - Paying bills
