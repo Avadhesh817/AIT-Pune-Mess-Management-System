@@ -11,8 +11,6 @@ This project is a fully functional mess management system developed for AIT Pune
 
 ## Screenshots
 
-## Screenshots
-
 <!-- Image 1 -->
 <img src="https://github.com/Avadhesh817/AIT-Pune-Mess-Management-System/assets/95118796/87f404fd-7a9d-4647-b1ed-12cdc216d684" width="400" height="300">
 <!-- Description for Image 1 -->
