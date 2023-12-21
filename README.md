@@ -11,12 +11,32 @@ This project is a fully functional mess management system developed for AIT Pune
 
 ## Screenshots
 
-<img src = ![1](https://github.com/Avadhesh817/AIT-Pune-Mess-Management-System/assets/95118796/87f404fd-7a9d-4647-b1ed-12cdc216d684) width="400" height = "300">
-<img src =![1 1](https://github.com/Avadhesh817/AIT-Pune-Mess-Management-System/assets/95118796/eb702970-7787-4b46-a83c-3b5f67571665) width="400" height = "300">
-<img src =![2](https://github.com/Avadhesh817/AIT-Pune-Mess-Management-System/assets/95118796/5703a62f-2fe0-4c89-a95d-97d985affe57) width="400" height = "300">
-<img src =![3](https://github.com/Avadhesh817/AIT-Pune-Mess-Management-System/assets/95118796/b64cc9fb-e24d-46c9-9269-4be152c76479) width="400" height = "300">
-<img src =![4](https://github.com/Avadhesh817/AIT-Pune-Mess-Management-System/assets/95118796/1432f58c-a52e-43b4-abee-872312bdce92) width="400" height = "300">
-<img src =![5](https://github.com/Avadhesh817/AIT-Pune-Mess-Management-System/assets/95118796/6ebe4c03-e2bf-4bf5-bb2a-e3be10e130b6) width="400" height = "300">
+## Screenshots
+
+<!-- Image 1 -->
+<img src="https://github.com/Avadhesh817/AIT-Pune-Mess-Management-System/assets/95118796/87f404fd-7a9d-4647-b1ed-12cdc216d684" width="400" height="300">
+<!-- Description for Image 1 -->
+
+<!-- Image 2 -->
+<img src="https://github.com/Avadhesh817/AIT-Pune-Mess-Management-System/assets/95118796/eb702970-7787-4b46-a83c-3b5f67571665" width="400" height="300">
+<!-- Description for Image 2 -->
+
+<!-- Image 3 -->
+<img src="https://github.com/Avadhesh817/AIT-Pune-Mess-Management-System/assets/95118796/5703a62f-2fe0-4c89-a95d-97d985affe57" width="400" height="300">
+<!-- Description for Image 3 -->
+
+<!-- Image 4 -->
+<img src="https://github.com/Avadhesh817/AIT-Pune-Mess-Management-System/assets/95118796/b64cc9fb-e24d-46c9-9269-4be152c76479" width="400" height="300">
+<!-- Description for Image 4 -->
+
+<!-- Image 5 -->
+<img src="https://github.com/Avadhesh817/AIT-Pune-Mess-Management-System/assets/95118796/1432f58c-a52e-43b4-abee-872312bdce92" width="400" height="300">
+<!-- Description for Image 5 -->
+
+<!-- Image 6 -->
+<img src="https://github.com/Avadhesh817/AIT-Pune-Mess-Management-System/assets/95118796/6ebe4c03-e2bf-4bf5-bb2a-e3be10e130b6" width="400" height="300">
+<!-- Description for Image 6 -->
+
 
 ## Getting Started
 
